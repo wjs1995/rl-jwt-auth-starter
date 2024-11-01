@@ -1,6 +1,6 @@
 [package]
 name = "rl-jwt-auth-starter"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "rust jwt auth"
 license = "Apache-2.0"
